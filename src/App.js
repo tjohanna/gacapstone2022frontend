@@ -17,7 +17,7 @@ function App(props) {
   //////////////////
 
   //api url
-  const url ="http://gacapstoneproject.herokuapp.com/items/"
+  const url ="https://gacapstoneproject.herokuapp.com/items/"
 
   // state to hold list of items
   const [posts, setPosts] = useState([])
